@@ -1,0 +1,5 @@
+.github/modernize/
+.vscode/
+**/target/
+*.class
+*.classpath
